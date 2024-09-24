@@ -1,0 +1,13 @@
+{
+  "name": "lotto-predictor",
+  "version": "1.0.0",
+  "description": "A lotto prediction app",
+  "homepage": "https://king-hob67.github.io/lotto-predictor",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  // other dependencies and fields
+}
