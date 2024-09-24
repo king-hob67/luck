@@ -1,0 +1,7 @@
+lotto-predictor/
+├── src/
+│   ├── App.js   # Main React component
+│   ├── App.css  # Styling
+├── public/
+├── package.json
+├── README.md
